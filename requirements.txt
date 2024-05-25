@@ -1,2 +1,6 @@
 flask
 gunicorn
+replicate
+google-generativeai
+pysqlite3
+markupsafe
